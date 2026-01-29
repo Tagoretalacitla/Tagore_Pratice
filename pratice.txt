@@ -1,0 +1,5 @@
+29/01/2026
+
+Today i was learned about UART and SPI protocolos
+
+and also i learned about Eclipse IDE and QCC744M board configurations and specifications.
