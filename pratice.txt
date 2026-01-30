@@ -3,3 +3,12 @@
 Today i was learned about UART and SPI protocolos
 
 and also i learned about Eclipse IDE and QCC744M board configurations and specifications.
+
+30/01/2026
+
+Today i learned about I2C protocol and QCC744M GPIO ports how to use and how to work of those each ports 
+using that ports i have done 
+1.Led Blinking
+2.Led with button (But the output was not came using button)
+
+And also i learned DTH11 sensors how to use with QCC744M and those specifications.
