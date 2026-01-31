@@ -11,4 +11,4 @@ using that ports i have done
 1.Led Blinking
 2.Led with button (But the output was not came using button)
 
-And also i learned DTH11 sensors how to use with QCC744M and those specifications.
+And also i learned DTH11 sensors how to use with QCC744M and those specifications..
