@@ -11,4 +11,12 @@ using that ports i have done
 1.Led Blinking
 2.Led with button (But the output was not came using button)
 
-And also i learned DTH11 sensors how to use with QCC744M and those specifications..
+And also i learned DTH11 sensors how to use with QCC744M and those specifications.
+
+31/01/2026
+
+Today i learned about hello world displaying using uart getting the output in minicom
+
+And also tried with TTL converter flashing from my pc ands also receive to my pc but the output was not coming to the minicom
+
+And also tried with dispaly to print hello world in LCD Display but the output was not coming.
