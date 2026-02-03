@@ -20,3 +20,21 @@ Today i learned about hello world displaying using uart getting the output in mi
 And also tried with TTL converter flashing from my pc ands also receive to my pc but the output was not coming to the minicom
 
 And also tried with dispaly to print hello world in LCD Display but the output was not coming.
+
+01/02/2026
+
+Sunday
+
+02/02/2026
+
+Not Came to Institute (Went for Interview)
+
+03/02/2026
+
+Today i was learned about RTC Module and tested using QCC744M Board and got the output
+
+And also i used MQ-135 Gas Sensor and also got the output for it.
+
+Finally i done the task using MQ-135,DHT11,RTC Module got the output using UART TTL converter and got the Temperature and AQI and Real Time
+Clock of it in MiniCom.
+
