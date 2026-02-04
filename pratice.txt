@@ -38,3 +38,10 @@ And also i used MQ-135 Gas Sensor and also got the output for it.
 Finally i done the task using MQ-135,DHT11,RTC Module got the output using UART TTL converter and got the Temperature and AQI and Real Time
 Clock of it in MiniCom.
 
+04/02/2026
+
+Today i was done the spi using QCC744M board while RTC Module, MQ-135, DHT11 sensors i got the output.
+
+And also i was tried same process using UART but it was getting the garbage in the minicom.
+
+I did a Documentation what i did till now using QCC744M Board.
