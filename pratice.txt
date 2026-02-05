@@ -45,3 +45,11 @@ Today i was done the spi using QCC744M board while RTC Module, MQ-135, DHT11 sen
 And also i was tried same process using UART but it was getting the garbage in the minicom.
 
 I did a Documentation what i did till now using QCC744M Board.
+
+05/02/2026
+
+Today i was learned about OLED
+Using that oled i have done MQ135-RTC Module-DHT11 sensors connections and i got the output in the minicom but that OLED was not Working and it was not getting poweron.
+
+And aslo i have tried using that oled to display the Temperature and Humidity in oled but the output was not came to the Oled Dipslay.
+
