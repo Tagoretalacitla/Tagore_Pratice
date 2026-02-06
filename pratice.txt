@@ -53,3 +53,9 @@ Using that oled i have done MQ135-RTC Module-DHT11 sensors connections and i got
 
 And aslo i have tried using that oled to display the Temperature and Humidity in oled but the output was not came to the Oled Dipslay.
 
+06/02/2026
+
+Toady Morning session i praticed C
+
+Afternoon we started BareMetal coding for led blinking in QCC744M and finally got the output.
+
